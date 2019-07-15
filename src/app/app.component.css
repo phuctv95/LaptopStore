@@ -3,3 +3,8 @@ header {
     padding: 50px;
     font-size: 40px;
 }
+
+.demo > button {
+    display: block;
+    margin: 10px 0;
+}
